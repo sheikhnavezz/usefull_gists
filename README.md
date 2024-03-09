@@ -2,6 +2,6 @@
 
 <p><h3>
    
-  - 👨‍💻 Jenkins installation - [Gist](https://gist.github.com/sheikhnavezz/26714294577296e1306e038c1b02d870.js)
+  - 👨‍💻 Jenkins installation - [Gist](https://gist.github.com/sheikhnavezz/26714294577296e1306e038c1b02d870)
 
 </h3></p>
